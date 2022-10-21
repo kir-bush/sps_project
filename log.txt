@@ -1,0 +1,82 @@
+﻿2022-08-15T09:51:07.417ZExt good, noDocMode, name: яхн (1).png, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-15T09:51:20.573ZExt good, noDocMode, name: Тестовый docx-документ.pdf, fileMoved, dataSaved
+2022-08-15T09:52:40.219Z - Ext good, noDocMode, name: jpG-тест.jpg, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-16T06:25:18.563Z - Ext good, docMode, name: Тестовый docx-документ.docx, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-16T06:30:13.354Z - Ext good, noDocMode, name: jpG-тест.jpg=> ERRORka: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\1\0\jpG-тест.jpg', dataSaved
+2022-08-16T06:35:13.810Z - Ext good, noDocMode, name: яхн (1).png, fileMoved, dataSaved
+2022-08-16T06:46:19.814Z - Ext good, noDocMode, name: Должностная инструкция главного энергетика.pdf, viewDeleted, filenameExists=> ERRORka: Error: EPERM: operation not permitted, unlink 'C:\ServFolder\mySite\FileBase\0\0\0\0\0\1\Тестовый docx-документ.docx', dataSaved
+2022-08-16T06:46:53.731Z - Ext good, noDocMode, name: Должностная инструкция главного энергетика.pdf, fileMoved, dataSaved
+2022-08-16T06:47:42.299Z - Ext good, noDocMode, name: Должностная инструкция  инженер-энергетик.pdf, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-16T06:57:53.106Z - Ext good, noDocMode, name: Должностная инструкция  руководителя проекта.pdf, fileMoved, dataSaved
+2022-08-16T07:12:38.468Z - Ext good, noDocMode, name: Должностная инструкция главный механик.pdf, fileMoved, dataSaved
+2022-08-16T07:22:29.653Z - Ext good, noDocMode, name: Должностная инструкция  начальника отдела закупок запасных частей и сервиса. Управление механизации и транспорта.pdf, fileMoved, dataSaved
+2022-08-17T10:06:41.030Z - Ext good, docMode, name: Тестовый docx-документ.docx, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-17T10:07:31.876Z - Ext good, noDocMode, name: jpG-тест.jpg, viewDeleted, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-17T10:10:24.106Z - Ext good, noDocMode, name: Тестовый docx-документ.pdf, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-17T15:21:52.944Z - Ext good, noDocMode, name: jpG-тест.jpg, filenameExists, origDeleted, fileMoved, dataSaved
+2022-08-17T15:34:45.021Z - Ext good, noDocMode, name: jpG-тест.jpg, filenameExists, origDeleted, fileMoved, dataSaved
+2022-09-15T08:51:01.648Z - New file name fixed, Old files temped, New file moved/copied, Converting... Failed: Bad File, Old files detemped, New file deleted
+2022-09-15T10:07:11.153Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T10:17:53.611Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:01:13.714Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:02:09.922Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:33:25.281Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:33:48.116Z - New file name fixed, Old files temped, Cant move/copy: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'Error: ENOENT: no such file or directory, copyfile 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'
+2022-09-15T13:33:48.138Z - New file name fixed, Old files temped, New file moved/copied, Converting..., data saved
+2022-09-15T13:37:14.353Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T13:40:23.873Z - New file name fixed, Old files temped, Cant move/copy: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\FileBase\uploads\Тестовый docx-докумgенlt.docx' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\Тестовый docx-докумgенlt.docx'Error: ENOENT: no such file or directory, copyfile 'C:\ServFolder\mySite\FileBase\uploads\Тестовый docx-докумgенlt.docx' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\Тестовый docx-докумgенlt.docx'
+2022-09-15T13:40:29.619Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:42:31.194Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:54:08.181Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T13:54:26.123Z - New file name fixed, Old files temped, Cant move/copy: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\FileBase\uploads\Тестовый docx-докумgенlt.docx' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\Тестовый docx-докумgенlt.docx'Error: ENOENT: no such file or directory, copyfile 'C:\ServFolder\mySite\FileBase\uploads\Тестовый docx-докумgенlt.docx' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\Тестовый docx-докумgенlt.docx'
+2022-09-15T13:54:29.413Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T13:56:25.627Z - New file name fixed, Old files temped, Cant move/copy: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'Error: ENOENT: no such file or directory, copyfile 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'
+2022-09-15T13:56:25.635Z - New file name fixed, Old files temped, Cant move/copy: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'Error: ENOENT: no such file or directory, copyfile 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'
+2022-09-15T13:56:25.668Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:03:02.280Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:05:12.781Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:05:23.013Z - TypeError: Cannot read properties of undefined (reading 'filename')
+2022-09-15T14:05:23.008Z - TypeError: Cannot read properties of undefined (reading 'filename')
+2022-09-15T14:06:00.853Z - New file name fixed, Old files temped, Cant move/copy: Error: ENOENT: no such file or directory, rename 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'Error: ENOENT: no such file or directory, copyfile 'C:\ServFolder\mySite\FileBase\uploads\jpG-тест.jpg' -> 'C:\ServFolder\mySite\FileBase\0\0\0\0\2\0\jpG-тест.jpg'
+2022-09-15T14:06:00.868Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:06:00.903Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:07:53.037Z - New file name fixed, Old files temped, New file moved/copied, data savedTypeError: res.status is not a function
+2022-09-15T14:08:26.989Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:12:15.929Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:12:32.816Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:12:51.611Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:13:16.771Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:13:29.251Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:13:58.797Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:14:10.288Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:14:29.827Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-15T14:14:41.249Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:14:59.040Z - New file name fixed, Bad Extention
+2022-09-15T14:15:54.384Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-15T14:16:29.375Z - New file name fixed, Old files temped, New file moved/copied, Converting... Failed: Bad File, Old files detemped, New file deleted
+2022-09-15T14:18:17.472Z - New file name fixed, Old files temped, New file moved/copied, Converting... Failed: Bad File, Old files detemped, New file deleted
+2022-09-15T14:18:59.309Z - New file name fixed, Old files temped, New file moved/copied, Converting... Failed: Bad File, Old files detemped, New file deleted
+2022-09-15T14:19:42.884Z - New file name fixed, Bad Extention
+2022-09-15T14:21:57.380Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved
+2022-09-16T08:46:21.015Z - New file name fixed, Old files temped, New file moved/copied, data saved
+2022-09-16T08:49:09.294Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумent.doc
+2022-09-16T08:55:04.032Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: jpG-тест.jpg
+2022-09-16T08:55:26.395Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Повернутый.pdf
+2022-09-16T08:55:46.986Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-09-16T11:06:51.484Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-09-16T11:38:04.950Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-09-16T11:38:16.398Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-10-14T10:19:59.825Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Повернутый.pdf
+2022-10-16T07:53:09.654Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-10-16T08:59:20.067Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Повернутый.pdf
+2022-10-16T09:23:02.122Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-10-16T09:26:31.928Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Повернутый.pdf
+2022-10-16T09:29:18.625Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-10-18T11:02:36.392Z - New file name fixed, Old files temped, New file moved/copied, Converting... Failed: Bad File, Old files detemped, New file deleted
+2022-10-18T12:06:50.026Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый docx-докумgенlt.docx
+2022-10-18T12:07:39.518Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Повернутый.pdf
+2022-10-21T14:19:17.489Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Тестовая JPG.jpg
+2022-10-21T14:19:31.966Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Тестовая PNG.png
+2022-10-21T14:20:24.262Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Тестовый PDF с горизонтальной ориентацией.pdf
+2022-10-21T14:20:57.028Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый WORD с различными ссылками.docx
+2022-10-21T14:28:05.731Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый WORD с различными ссылками.docx

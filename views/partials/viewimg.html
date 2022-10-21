@@ -1,0 +1,28 @@
+<div id="image-container" >
+	<img id="imageZoom" src="{{dataUri}}" alt="A image to apply the ImageZoom plugin"> 
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="../js/viewImg.js"></script>
+
+<script> </script>
+
+<style>
+	#image-container{
+		border: solid 2px darkgray;
+	}
+	figure .containerZoom {
+		background-position:50% 50%;
+		width:100%;
+		overflow:hidden;
+		cursor:zoom-in;
+		margin:0; 
+	}
+	figure.containerZoom img{
+		transition:opacity .5s;
+		display:block;
+		width:100%}
+	figure.containerZoom.active img{
+		opacity:0
+	}
+</style>

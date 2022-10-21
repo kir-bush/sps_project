@@ -1,0 +1,27 @@
+<input type="hidden" id="dataId" value='{{dataId}}'>
+<input type="hidden" id="dataName" value="{{title}}">
+<input type="hidden" id="dataCategory" value="{{dataCategory}}">
+<input type="hidden" id="dataLoaded" value="{{dataLoaded}}">
+<input type="hidden" id="dataUri" value="{{dataUri}}">
+
+<div id="dark-wall"></div>
+<div id='maincontainer'>
+<div id="doc-scroll-list"></div>
+	{{> docbar}}
+	<content id="doc-view-area">
+		<div id = 'docInfo' style="padding: 6px 3px 6px;">
+			<h1 id="docName" style="display: inline;">{{title}}</h1>
+			<h3 id="docLoaded" style="display: inline; color: gray; padding-top: 15px;">(Загружен: {{dataLoaded}})</h3>
+		</div>
+
+		{{#if isDoc}}
+		{{> viewdoc}}
+		{{else}}
+		{{> viewimg}}
+		{{/if}}
+	</content>
+</div>
+
+<link rel="stylesheet" href="/css/infoStyle.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="../js/infoAct.js"></script>

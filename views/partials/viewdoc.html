@@ -1,0 +1,25 @@
+  <link rel="stylesheet" href="../node_modules/pdfjs-dist/web/pdf_viewer.css">
+  <link rel="stylesheet" href="../css/pdfStyle.css">
+
+  <script src="../node_modules/pdfjs-dist/build/pdf.js"></script>
+  <script src="../node_modules/pdfjs-dist/web/pdf_viewer.js"></script>
+<div id="viewBox">
+  <div id="navigation_controls" style="border-bottom: 3px;">
+      <button id="go_previous" class = "pdf-control" ><</button>
+      <h4 style="display: inline-block;">стр</h4>
+      <input id="current_page" value="1" type="number"/>
+      <button id="go_next" class = "pdf-control"  >></button>
+      <div id="zoom_controls">  
+        <button id="zoom_in" class = "pdf-control">+</button>
+        <button id="zoom_out" class = "pdf-control">-</button>
+      </div>
+    </div>
+  <div id="viewerContainer">
+    <div id="viewer" class="pdfViewer"></div>
+  </div>
+</div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="../js/singlepageviewer.js"></script>
+
+

@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box; 
+  margin: 0;
+}
+.wrapper{
+  width:80%;
+  display:block;
+  overflow:hidden;
+  margin:0 auto;
+  padding: 60px 50px;
+  background:#fff;
+  border-radius:4px;
+}
+
+canvas{
+  background:#fff;
+  height:600px;
+}
+
+h1{
+  font-family: Roboto;
+  color: #000000;
+  margin-top:50px;
+  font-weight:200;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}

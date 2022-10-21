@@ -1,0 +1,27 @@
+<div id="dark-wall"></div>
+            <div id='maincontainer'>
+                <h1 style="margin: 2% 10px;">Управление документами</h1>
+                <table id="manage-table">
+                    <tr style="position: sticky; top: 3rem; z-index: 1; border-top: ">
+                        <th>id</th>
+                        <th>Наименование</th>
+                        <th>Категория</th>
+                        <th>Загружен</th>
+                        <th>Файл</th>
+                        <th></th>
+                    </tr>
+                    {{#listt docs cats}}
+					{{/listt}}
+
+                </table>
+                <div id="ctrl-btn-container">
+                    <button id="add-btn">Добавить</button>
+                    <button id="save-btn">Сохранить</button>
+                    <button id="cancel-btn">Отмена</button>
+                </div>
+
+            </div>
+
+<link rel="stylesheet" href="/css/infoManageStyle.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="../js/infoManageAct.js"></script>

@@ -1,0 +1,60 @@
+.pdf-control{
+	display: inline-block;
+	cursor: pointer; 
+	font-size:15px;
+	text-decoration:none;
+	padding:3px 11px; 
+	background:#349591;
+	color:#ffffff;
+	border-radius:11px;
+	border:1px solid #0b605d;
+	font-weight: bold;
+	margin: 2px;
+}
+
+div #zoom_controls{
+      float: right; /*Задаем обтекание*/
+    }
+
+#viewerContainer {
+      overflow: auto;
+      position: absolute;
+      
+      width: 100%;
+      border: solid 2px darkgray;
+    }
+
+#viewBox{
+	position: relative;
+	width: 100%;
+}
+
+.pdf-control:hover{
+	color:#0B605D;
+	background:#ffffff;
+	border:2px solid #0B605D;
+	transition: all 0s ease;
+	margin: 0px;
+}
+
+input#current_page{
+	display: inline-block;
+	font-size:15px;
+	padding:3px 11px; 
+	background: white;
+	color:black;
+	border-radius:11px;
+	border:1px solid #0b605d;
+	font-weight: bold;
+	margin: 2px;
+	width: 60px;
+}
+
+#navigation_controls{
+	border: 1px solid #000000;
+	border-radius:  4px;
+	border-bottom: none;
+	border-color: #486564;
+	box-sizing: content-box;
+	padding: 2px;
+}

@@ -1,0 +1,76 @@
+.clr0 { color: #F5E256 }	/* Манго */
+.clr1 { color: #9E8D12 }
+.clr2 { color: #D8BF00 }
+.clr3 { color: #FBF6D0 }
+.clr4 { color: #A7A176 }
+
+.clr1-0 { color: #E4506D }	/* Шлепок */
+.clr1-1 { color: #93102A }
+.clr1-2 { color: #C90028 }
+.clr1-3 { color: #EAC1C9 }
+.clr1-4 { color: #9B6E77 }
+
+.clr2-0 { color: #349591 }	/* Изумруд */
+.clr2-1 { color: #0B605D }
+.clr2-2 { color: #00837E }
+.clr2-3 { color: #7E9897 }
+.clr2-4 { color: #486564 }
+
+
+nav{
+width: 100%;
+font-weight: bold;
+}
+
+nav ul {
+	padding: 0; 
+	margin: 0;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+}
+
+.doc-navigation-panel li {
+	list-style-type: none;
+}
+
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+}
+
+header{
+background: #F5E256;
+height: 75px; /*Height of top section*/
+}
+
+header h1{
+margin: 0;
+padding-top: 15px;
+}
+
+.menu-main{
+padding-left: 500px; 
+font-weight: bold;
+height:70px;
+vertical-align:bottom;
+}
+
+.menu-main a{
+color: #0B605D;
+padding: 16px 13px 10px 6px; /*top padding is 6px, bottom padding is 4px*/
+margin-right: 20px; /*spacing between each menu link*/
+text-decoration: none;
+border-bottom: 3px solid gray; /*bottom border is 3px*/
+
+vertical-align:bottom; /* вот она */
+display:inline-block;
+background: #FBF6D0;
+}
+
+.active a{
+  color: deeppink;
+}

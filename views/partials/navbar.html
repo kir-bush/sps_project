@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="/css/headerstyle.css">
+
+
+  <nav id="nav-controls">
+      <ul id="nav-private-controls-list">
+          {{#if authenticated}}
+          <li ><a class="nav-button" href="/logout/">Выход</a></li>
+          {{else}}
+          <li ><a class="nav-button" href="/auth/">Авторизоваться</a></li>
+          {{/if}}
+      </ul>
+      <ul id="nav-menu-list">
+          {{#if isInfo}}
+          <li class="active"><a class="nav-button" href="/info">Info</a></li>
+          {{else}}
+          <li               ><a class="nav-button" href="/info">Info</a></li>
+          {{/if}}
+          {{#ifDouble authenticated isInfoManage}}
+            <li class="active" ><a class="nav-button" href="/info/manage">Управление документами</a></li>
+          {{else}}
+            <li                ><a class="nav-button" href="/info/manage">Управление документами</a></li>
+          {{/ifDouble}}
+      </ul>
+  </nav>
+

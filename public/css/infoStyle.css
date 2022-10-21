@@ -1,0 +1,154 @@
+main {
+    width: 100%;
+    background: white;
+    margin-top: 3rem;
+}
+
+*::-webkit-scrollbar {
+  width: 12px;      
+}
+
+*::-webkit-scrollbar-track {
+  background: white;  
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #E4506D; 
+  border-radius: 20px;       
+  border: 1px solid white;  
+}
+
+#maincontainer {
+    background: #ffffff;
+    margin: 0 auto;
+    /*width: 80%;*/
+    height: 100vh;
+    position: relative;
+}
+
+#select-cat-pannel {
+    background: #E9C1C9;
+    padding: 20px 10px;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    width: 22%;
+    height: 90%;
+}
+
+
+#cat-flex-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    height: 100%;
+}
+
+#cat-flex-list li{
+    position: relative;
+    margin: 5px 0;
+}
+
+.cat-button {
+    position: relative;
+
+    display: block;
+    background:#E4506D;
+    color:#ffffff;
+    border-radius:2px ;
+    border:2px solid black;
+    cursor: pointer; 
+    font-size:18px;
+    font-weight:bold; 
+    text-decoration:none;
+    padding:8px 16px; 
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    z-index: 2;/*временно*/
+}
+
+.cat-button:hover{/* пригодится
+    color:#E4506D;
+    background:#ffffff;*/
+    border:2px solid black;
+    transition: all 0.1s ;
+    border-radius: 5px;
+    box-shadow:0px 0px 12px lightyellow;
+}
+
+#dark-wall{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: black;
+    opacity: 0.5;
+    z-index: -1;
+    display: none;
+}
+
+#doc-view-area {
+    /*background: darkviolet;*/
+    position: absolute;
+    top: 15px;
+    left: 24%;
+    width: 75.3%;
+    height: 100%;
+}
+
+#doc-scroll-list{
+    display:  none;
+    list-style-type: none;
+    background: white;
+    width: 47%;
+    height: 80%;
+    position: absolute; 
+    top: 25px;
+    left: 21.6%;
+    box-shadow:10px 10px 5px #000000;
+    border-radius: 8px;
+    z-index: 3;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+
+#doc-scroll-list li{
+    position: relative;
+    margin: 15px 30px;
+    width: 90%;
+    padding: 1.2% 0;
+    border-left: 2px solid darkgray;
+}
+
+#doc-scroll-list li:hover{
+    box-shadow:0px 0px 12px lightgray, inset 0px 0px 20px -12px gray;
+    transition: all 0.1s ;
+}
+
+#doc-scroll-list a{
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+    text-decoration:none; 
+    font-size: 14pt;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+#doc-scroll-list .doc-name{
+    display: inline;
+    color: black;
+}
+
+#doc-scroll-list .doc-date{
+    display: block;
+    float: right;
+    margin-left: 5px;
+    padding-right: 15px;
+    color: #4f4f4f;
+}

@@ -1,0 +1,1 @@
+cscript C:\ServFolder\mySite\scripts\word2pdf.vbs C:\Users\bushuev_ks\Desktop\test.docx
