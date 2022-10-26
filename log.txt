@@ -80,3 +80,4 @@
 2022-10-21T14:20:24.262Z - New file name fixed, Old files temped, New file moved/copied, data saved  filename: Тестовый PDF с горизонтальной ориентацией.pdf
 2022-10-21T14:20:57.028Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый WORD с различными ссылками.docx
 2022-10-21T14:28:05.731Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Тестовый WORD с различными ссылками.docx
+2022-10-24T17:42:21.063Z - New file name fixed, Old files temped, New file moved/copied, Converting... Done, View renamed, data saved  filename: Резюме.docx
